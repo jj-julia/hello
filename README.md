@@ -1,9 +1,3 @@
-<html>
-<head>
-	<title>Hello World</title>
-</head>
-<body>
-<h1>Hello</h1>
-<?php echo "My name is JJ";?>
-</body>
-</html>
+This is the readmefile.
+========================
+Describe the project so that all can download and install
